@@ -19,5 +19,5 @@ class Student
     DROP TABLE STUDENTS;
     SQL
     DB[:conn].execute(sql)
-
+  end
 end
